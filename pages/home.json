@@ -3,6 +3,19 @@
   "type": "page",
   "url": "/home",
   "params": {},
-  "variables": [],
+  "variables": [
+    {
+      "name": "a",
+      "description": "",
+      "type": "property",
+      "value": ""
+    },
+    {
+      "name": "asf",
+      "description": "",
+      "type": "property",
+      "value": ""
+    }
+  ],
   "children": []
 }
